@@ -1,12 +1,5 @@
 ### Tic Tac Toe
 
----
-⚠️ DO NOT SUBMIT PRS WITH SOLUTIONS TO THIS REPO ⚠️
-
-### Description
-
-Your task is to implement `TicTacToe` class
-
 #### Methods:
 
 ##### `getCurrentPlayerSymbol()`
@@ -41,18 +34,7 @@ should return `matrix[row][col]` value (if any) or `null`
 
 ---
 
-### Submit to [rs app](https://app.rs.school)
-1. Open [rs app](https://app.rs.school) and login
-2. Open `RS APP` and click `Auto Test`
-3. Select your task (tick-tac-toe)
-4. Press the submit button and enjoy
-
----
-
 ### Notes
 1. We recommend you to use nodejs of version 14 or lower. If you using any of features that does not supported by node v10, score won't be submitted.
 2. Please be sure that each of your test in limit of 30sec.
 
----
-
-© [lesnitsky](https://github.com/lesnitsky)
